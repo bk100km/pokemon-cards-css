@@ -17,7 +17,7 @@
 
   // image props
   export let img = "";
-  export let back = "https://tcg.pokemon.com/assets/img/global/tcg-card-back-2x.jpg";
+  export let back = "http://localhost:5173/img/moneygement-main.png";
   export let foil = "";
   export let mask = "";
 
